@@ -517,4 +517,9 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
+  <project path="device/motorola/xt907_jbbl" name="ravikwow/android_device_motorola_xt907_jbbl"/>
+  <project path="device/motorola/msm8960_jbbl-common" name="ravikwow/android_device_motorola_msm8960_jbbl-common"/>
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="device/motorola/qcom-common" name="ravikwow/android_device_motorola_qcom-common"/>
+  <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" />
 </manifest>
